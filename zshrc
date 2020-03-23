@@ -100,3 +100,11 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias zshconfig="vim ~/.dotfiles/zshrc"
+alias zshload="source ~/.zshrc"
+alias smag="~/Code/smag-mvp/"
+alias zoi="~/Zoi/"
+alias todo="vim ~/todo.txt"
+
+alias kctl=kubectl
+alias pose=docker-compose
